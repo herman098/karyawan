@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:qnex/karyawan/screens/karyawan_home.dart'; // BAGIAN KARYAWAN
 import 'package:supabase_flutter/supabase_flutter.dart';
 import 'core/app_colors.dart';
 import 'screens/splash_page.dart';
@@ -31,6 +32,8 @@ class QnexApp extends StatelessWidget {
         textTheme: GoogleFonts.montserratTextTheme(),
         scaffoldBackgroundColor: Colors.white,
       ),
+      // BAGIAN KARYAWAN
+      routes: {'/karyawan': (_) => const KaryawanHome()},
       home: const SplashPage(),
     );
   }
