@@ -1,0 +1,21 @@
+Product-category thumbnail photos used in the employee stock list.
+All images are served by Unsplash and covered by the Unsplash License:
+https://unsplash.com/license
+
+susu.jpg
+https://images.unsplash.com/photo-1550583724-b2692b85b150
+
+minyak.jpg
+https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5
+
+mi.jpg
+https://images.unsplash.com/photo-1569718212165-3a8278d5f624
+
+air.jpg
+https://images.unsplash.com/photo-1523362628745-0c100150b504
+
+kopi.jpg
+https://images.unsplash.com/photo-1461023058943-07fcbe16d735
+
+roti.jpg
+https://images.unsplash.com/photo-1509440159596-0249088772ff
